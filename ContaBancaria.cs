@@ -19,6 +19,7 @@ namespace cap5
             this.saldoConta = saldoConta;
         }
 
+        //Estudo de encapsulamento PRIVATE
         public int NumeroConta
         {
             get { return _numeroConta; }
