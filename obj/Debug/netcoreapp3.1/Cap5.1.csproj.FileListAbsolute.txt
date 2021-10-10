@@ -1,0 +1,14 @@
+D:\DANIELA\PROGRAMACAO\CSharp\Exercicios\Cap5.1\obj\Debug\netcoreapp3.1\Cap5.1.csproj.AssemblyReference.cache
+D:\DANIELA\PROGRAMACAO\CSharp\Exercicios\Cap5.1\obj\Debug\netcoreapp3.1\Cap5.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\DANIELA\PROGRAMACAO\CSharp\Exercicios\Cap5.1\obj\Debug\netcoreapp3.1\Cap5.1.AssemblyInfoInputs.cache
+D:\DANIELA\PROGRAMACAO\CSharp\Exercicios\Cap5.1\obj\Debug\netcoreapp3.1\Cap5.1.AssemblyInfo.cs
+D:\DANIELA\PROGRAMACAO\CSharp\Exercicios\Cap5.1\obj\Debug\netcoreapp3.1\Cap5.1.csproj.CoreCompileInputs.cache
+D:\DANIELA\PROGRAMACAO\CSharp\Exercicios\Cap5.1\bin\Debug\netcoreapp3.1\Cap5.1.exe
+D:\DANIELA\PROGRAMACAO\CSharp\Exercicios\Cap5.1\bin\Debug\netcoreapp3.1\Cap5.1.deps.json
+D:\DANIELA\PROGRAMACAO\CSharp\Exercicios\Cap5.1\bin\Debug\netcoreapp3.1\Cap5.1.runtimeconfig.json
+D:\DANIELA\PROGRAMACAO\CSharp\Exercicios\Cap5.1\bin\Debug\netcoreapp3.1\Cap5.1.runtimeconfig.dev.json
+D:\DANIELA\PROGRAMACAO\CSharp\Exercicios\Cap5.1\bin\Debug\netcoreapp3.1\Cap5.1.dll
+D:\DANIELA\PROGRAMACAO\CSharp\Exercicios\Cap5.1\bin\Debug\netcoreapp3.1\Cap5.1.pdb
+D:\DANIELA\PROGRAMACAO\CSharp\Exercicios\Cap5.1\obj\Debug\netcoreapp3.1\Cap5.1.dll
+D:\DANIELA\PROGRAMACAO\CSharp\Exercicios\Cap5.1\obj\Debug\netcoreapp3.1\Cap5.1.pdb
+D:\DANIELA\PROGRAMACAO\CSharp\Exercicios\Cap5.1\obj\Debug\netcoreapp3.1\Cap5.1.genruntimeconfig.cache
